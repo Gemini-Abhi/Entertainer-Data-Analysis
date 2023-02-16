@@ -26,6 +26,5 @@ YouTube Video: https://youtu.be/Tu-VvGjlPUg
 
 LinkedIn Post: 
 
-About
-An internship program files which is conducted by ineuron institution.
+
 
