@@ -13,10 +13,16 @@ Tools used: MS Excel, Microsoft Power BI
 
 Visuals:
 Top Entertainers by awards and Nominations
+
 Top 10 Entertainers by each  Award category
+
 Individual Entertainer award & Nomination Details
+
 Entertainers with Year of Breakthrough
-Link to the Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYzkxNzc5NTItNmM2OC00MWRhLWExYWEtZGY1ZGMzNjAyMTc4IiwidCI6IjFlODI2NjA0LWQ0Y2QtNGUyYi04MWQ1LWVkYzRjZDJiYjFiOSJ9
+
+Link to the Dashboard : https://app.powerbi.com/view?
+r=eyJrIjoiYzkxNzc5NTItNmM2OC00MWRhLWExYWEtZGY1ZGMzNjAyMTc4IiwidCI6IjFlODI2NjA0LWQ0Y2QtNGUyYi04MWQ1LWVkYzRjZDJiYjFiOSJ9
+
 
 Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detail Projcet Report.
 
