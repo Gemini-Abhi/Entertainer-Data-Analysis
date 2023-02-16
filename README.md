@@ -20,8 +20,7 @@ Individual Entertainer award & Nomination Details
 
 Entertainers with Year of Breakthrough
 
-Link to the Dashboard : https://app.powerbi.com/view?
-r=eyJrIjoiYzkxNzc5NTItNmM2OC00MWRhLWExYWEtZGY1ZGMzNjAyMTc4IiwidCI6IjFlODI2NjA0LWQ0Y2QtNGUyYi04MWQ1LWVkYzRjZDJiYjFiOSJ9
+Link to the Dashboard : https://app.powerbi.com/viewr=eyJrIjoiYzkxNzc5NTItNmM2OC00MWRhLWExYWEtZGY1ZGMzNjAyMTc4IiwidCI6IjFlODI2NjA0LWQ0Y2QtNGUyYi04MWQ1LWVkYzRjZDJiYjFiOSJ9
 
 
 Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detail Projcet Report.
@@ -30,7 +29,7 @@ Also the entire project is uploaded in Novypro.com for public use. Link: https:/
 
 YouTube Video: https://youtu.be/Tu-VvGjlPUg
 
-LinkedIn Post: 
+LinkedIn Post:https://www.linkedin.com/posts/abhijeet-sethy-058272143_hello-all-i-have-successfully-completed-activity-7031991882347950080-bfMv?utm_source=share&utm_medium=member_desktop 
 
 
 
