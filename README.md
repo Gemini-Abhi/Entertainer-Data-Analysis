@@ -22,9 +22,9 @@ Required Documents are uploaded i.e. HLD, LLD, Wireframe, Architecture and Detai
 
 Also the entire project is uploaded in Novypro.com for public use. Link: https://www.novypro.com/project/pbix 
 
-YouTube Video: 
+YouTube Video: https://youtu.be/Tu-VvGjlPUg
 
-LinkedIn Post:
+LinkedIn Post: 
 
 About
 An internship program files which is conducted by ineuron institution.
