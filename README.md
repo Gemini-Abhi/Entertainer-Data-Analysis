@@ -1,4 +1,4 @@
-Entertainer-Data-Analysis
+#Entertainer-Data-Analysis
 An internship project involving the career histories of many celebrities.
 
 Hello, My name is Abhijeet, and my partner, Sandeep, we are  data analyst interns at ineuron.ai. Our internship project is called Entertainer Data Analysis.
@@ -27,32 +27,3 @@ LinkedIn Post:
 About
 An internship program files which is conducted by ineuron institution.
 
-Topics
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
